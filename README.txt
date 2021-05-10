@@ -4,4 +4,5 @@ spis obecnosci kazdego z uzytkownikow systemu. Archiwizowane co kwartal.
 Folder obecnosc_arch zawiera skompresowany i archiwizowany co kwartal spis obecnosci w
 systemie wszystkich uzytkownikow.
 
+Pliki tekstowe tmp i tmp2 sa plikami tymczasowymi uzywanymi przez skrypty.
 
